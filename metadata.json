@@ -1,0 +1,6 @@
+{
+  "name": "The Daily Bean",
+  "description": "Sunlit 3D virtual cafe walkthrough featuring interactive table reservations, real-time workspace telemetry, a 3D bespoke beverage builder, and community events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
